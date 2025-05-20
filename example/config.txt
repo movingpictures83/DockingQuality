@@ -1,0 +1,2 @@
+Prefix plugins/DockingQuality/example/
+Plugin DockingQuality inputfile parameters.txt outputfile pdb.dockingquality.pkl
